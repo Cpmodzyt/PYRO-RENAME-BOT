@@ -92,7 +92,7 @@ Exᴀᴍᴩʟᴇ:- /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 
 #⚠️ Dᴏɴ'ᴛ Rᴇᴍᴏᴠᴇ Oᴜʀ Cʀᴇᴅɪᴛꜱ @ᴩyʀᴏ_ʙᴏᴛᴢ🙏🥲
     DEV_TXT = """<b>╭───────────⍟
-├🤖 ᴍy ɴᴀᴍᴇ : {}
+├🤖 ᴍy ɴᴀᴍᴇ : Renamer Bot Pro
 ├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/itzcpmodz>I ƚ z C ρ |° 🖤 🪄</a> 
 ├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://github.com/Cpmodzyt>Cpmodzyt</a>
 ├📕 Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
