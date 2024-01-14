@@ -71,7 +71,7 @@ Thankyou ♥️ 🪄
 ├📕 Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
 ├✏️ Lᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org>Pyᴛʜᴏɴ 3</a>
 ├💾 Dᴀᴛᴀ Bᴀꜱᴇ : <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
-├📊 Owner : <a href=https://wa.me/+94765665354?text=*Hҽყ_Cρ_||°*_🖤_🪄>I`ɱ  Cρ's ||°* 🖤 🪄</a></b>     
+├📊 Owner : <a href=https://wa.me/+94765665354>I`ɱ  Cρ's ||°* 🖤 🪄</a></b>     
 ╰───────────────⍟ """
 
     HELP_TXT = """
@@ -91,12 +91,15 @@ Exᴀᴍᴩʟᴇ:- /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 <b>•»</b> Sᴇɴᴅ Aɴy Fɪʟᴇ Aɴᴅ Tyᴩᴇ Nᴇᴡ Fɪʟᴇ Nɴᴀᴍᴇ \nAɴᴅ Aᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ document, video, audio ].</a>"""
 
 #⚠️ Dᴏɴ'ᴛ Rᴇᴍᴏᴠᴇ Oᴜʀ Cʀᴇᴅɪᴛꜱ @ᴩyʀᴏ_ʙᴏᴛᴢ🙏🥲
-    DEV_TXT = """<b><u>Hҽყ  Tԋҽɾҽ  I`ɱ  Cρ's  Bot ||° 🖤 🪄</b></u>
-» 🧚 Owner : <a href=https://t.me/itzcpmodz>I ƚ z C ρ |° 🖤 🪄</a>
-» ❄️ Wa Bot Group : <a href=https://chat.whatsapp.com/HPl9gi585raKVZjzEmcvDH</a>
-» 🔥 Film Channel : <a href=https://t.me/FilmZone_Official</a>
-
-@Itzcpmodz | @FilmZone_Official"""
+    DEV_TXT = """<b>╭───────────⍟
+├🤖 ᴍy ɴᴀᴍᴇ : {}
+├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/itzcpmodz>I ƚ z C ρ |° 🖤 🪄</a> 
+├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://github.com/Cpmodzyt>Cpmodzyt</a>
+├📕 Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
+├✏️ Lᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org>Pyᴛʜᴏɴ 3</a>
+├💾 Dᴀᴛᴀ Bᴀꜱᴇ : <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
+├📊 Owner : <a href=https://wa.me/+94765665354>I`ɱ  Cρ's ||°* 🖤 🪄</a></b>     
+╰───────────────⍟"""
 
     PROGRESS_BAR = """<b>\n
 ╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━➣
